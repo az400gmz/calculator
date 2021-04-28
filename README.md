@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/guillaumemartinezBU74D/guillaume_martinezBU74D/_apis/build/status/az400gmz.calculator?branchName=master)](https://dev.azure.com/guillaumemartinezBU74D/guillaume_martinezBU74D/_build/latest?definitionId=2&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
